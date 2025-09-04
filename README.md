@@ -1,76 +1,16 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+# 💫 About Me:
+🔭 Currently working on AI & Cloud projects with IBM Cloud and LangChain<br>👯 Open to collaborating on AI, cybersecurity, and open-source projects<br>🌱 Learning more about Generative AI and cloud-native development<br>💬 Ask me about AI/ML, cloud apps, and cybersecurity
 
-###
 
-<div align="center">
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="60" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="60" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="60" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="60" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="60" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="60" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="60" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="60" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="60" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="60" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/qt/41CD52" height="60" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="60" alt="redis logo"  />
-</div>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suryansh-sharma-3ab34a248) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Zestyclose_Cap2796) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SuryanshSh55837) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryanshsharma.rs@gmail.com) 
 
-###
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suryanshsharma19&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=suryanshsharma19&theme=vue-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suryanshsharma19&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/suryansh-sharma-3ab34a248/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/SuryanshSh55837" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="suryanshsharma.rs@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouz&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<div align="center">
-  <img height="200" src="https://gifdb.com/gif/programming-stick-figure-going-crazy-on-fire-j6ii4pju9xdtnsbr.html?embed=true"  />
-</div>
-
-###
+---
+[![](https://visitcount.itsvg.in/api?id=suryanshsharma19&icon=0&color=0)](https://visitcount.itsvg.in)
